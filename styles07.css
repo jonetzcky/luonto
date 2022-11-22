@@ -53,6 +53,15 @@ h1 {
   }
 
 
+  #nappi1 {
+    font-weight: 700;
+  height: 36px;
+  width: 150px;
+  user-select: none;
+  margin: auto;
+  cursor: default;
+
+  }
 
   .container {
     margin-left: 30px;
