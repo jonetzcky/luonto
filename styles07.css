@@ -23,8 +23,9 @@ p {
 }
 body {
 
-  width: 80%;
+  width: 70%;
   margin: auto;
+
   flex-direction: column;
   background: linear-gradient( #85afd9d7, #7f8e9c);
   padding-top: 3rem;
