@@ -5,6 +5,11 @@ header {
   font-family: Impact;
 }
 
+html, body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
 footer {
   color: white;
 }
