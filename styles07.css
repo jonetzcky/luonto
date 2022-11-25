@@ -5,10 +5,6 @@ header {
   font-family: Impact;
 }
 
-html, body {
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-}
 
 footer {
   color: white;
@@ -26,6 +22,12 @@ p {
   margin-left: 50px;
 
 }
+
+html, body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
 body {
 
   width: 70%;
@@ -43,7 +45,7 @@ h2{
 }
 h1 {
   text-align: center;
-    font-size: 47px;
+    font-size: 46px;
     color: white;
     font-family: Bahnschrift Condensed;
   }
